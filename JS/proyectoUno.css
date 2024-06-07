@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif; /* Tipo de letra más amigable */
+    background-color: #efd4d1; /* Color de fondo suave */
+    text-align: center; /* Texto centrado */
+}
+
+h1 {
+    color: #333; /* Color de texto para títulos */
+}
+
+h2 {
+    color: #666; /* Color de texto para subtítulos */
+}
+
+p {
+    margin-bottom: 20px; /* Espacio inferior entre párrafos */
+}
+
+button {
+    font-size: 18px; /* Tamaño de fuente más grande para el botón */
+    padding: 10px 20px; /* Espacio interno del botón */
+    background-color: #497786; /* Color de fondo del botón */
+    color: #fff; /* Color de texto del botón */
+    border: none; /* Eliminar borde del botón */
+    border-radius: 5px; /* Añadir bordes redondeados al botón */
+    cursor: pointer; /* Cambiar cursor al pasar sobre el botón */
+}
+
+button:hover {
+    background-color: #0056b3; /* Cambiar color de fondo al pasar el mouse sobre el botón */
+}
